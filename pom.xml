@@ -29,13 +29,11 @@
     </build>
     <!-- Dependencies -->
     <dependencies>
-<!--
         <dependency>
             <groupId>com.datapublica</groupId>
-            <artifactId>scraping-root</artifactId>
-            <version>0.1-SNAPSHOT</version>
+            <artifactId>scraping</artifactId>
+            <version>0.1</version>
         </dependency>
--->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
